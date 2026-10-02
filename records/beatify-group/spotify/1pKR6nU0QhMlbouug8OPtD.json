@@ -1,0 +1,37 @@
+{
+  "record": {
+    "id": "ar-record:https://certifyd.beatifygroup.com/u/beatify-group|spotify|1pKR6nU0QhMlbouug8OPtD",
+    "payload": {
+      "context": {
+        "account": "1pKR6nU0QhMlbouug8OPtD",
+        "provider": "spotify"
+      },
+      "creator": {
+        "handle": "beatify-group",
+        "nodeUrl": "https://certifyd.beatifygroup.com",
+        "profileUrl": "https://certifyd.beatifygroup.com/u/beatify-group"
+      },
+      "sequence": 1,
+      "slots": {
+        "action": {
+          "label": "Get tickets",
+          "url": "https://ticketmaster/"
+        },
+        "reveal": {
+          "text": "Secret Show Friday Night",
+          "title": "Secret Show",
+          "url": "https://secretshow.com/"
+        },
+        "support": {
+          "destination": "excitedproxy14@walletofsatoshi.com",
+          "label": "send Bitcoin"
+        }
+      },
+      "updatedAt": "2026-10-02T18:29:46.988Z",
+      "version": 1
+    },
+    "publicKey": "mEKtaaWVsYGxyMBeFAL7LxiZ+4Q7PBHH63XKUAzJxNE=",
+    "savedAt": "2026-10-02T18:29:46.988Z",
+    "signature": "6/pfJsSgIFMktXx6Xpi5KOVMTSvayoRJwUVtuxxcffq80+6tNzQ6yOg5xx/Sj/t5pyOhAKI3upx4pq0i9rBbBw=="
+  }
+}
