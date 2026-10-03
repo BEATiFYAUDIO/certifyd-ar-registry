@@ -11,27 +11,27 @@
         "nodeUrl": "https://certifyd.beatifygroup.com",
         "profileUrl": "https://certifyd.beatifygroup.com/u/beatify-group"
       },
-      "sequence": 2,
+      "sequence": 3,
       "slots": {
         "action": {
-          "label": "Get tickets",
-          "url": "https://ticketmaster/"
+          "label": "Get Tickets",
+          "url": "https://undergroundrocks.ca/"
         },
         "reveal": {
-          "text": "Public AR sequence 2",
-          "title": "Secret Show",
-          "url": "https://secretshow.com/"
+          "text": "come to the underground on friday at 11pm",
+          "title": "Secret Show on Friday",
+          "url": "https://undergroundrocks.ca/"
         },
         "support": {
           "destination": "excitedproxy14@walletofsatoshi.com",
-          "label": "send Bitcoin"
+          "label": "Send a Tip!"
         }
       },
-      "updatedAt": "2026-10-02T23:51:45.143Z",
+      "updatedAt": "2026-10-03T01:28:18.388Z",
       "version": 1
     },
-    "publicKey": "mEKtaaWVsYGxyMBeFAL7LxiZ+4Q7PBHH63XKUAzJxNE=",
-    "savedAt": "2026-10-02T23:51:45.143Z",
-    "signature": "uxE0w66D1MiogasIevwJs0zNSN3dGJjobn3FgyDL1VBWoXzVNKomRLvChlJtCSaFGPUjAlFLpJolK/9CY/Y4Bg=="
+    "publicKey": "7c7bPFEczAlxSNwndbw+cxz7mePV3Qho2vGJpPXjxuU=",
+    "savedAt": "2026-10-03T01:28:18.388Z",
+    "signature": "PJYvJBr92grbTSQHgyrMySvKGDCm1JiXnQ+0f60lRKHpIDQeTrr7FHuJIr/7DARs9wNZnmWGdrznaaKLhPf7BQ=="
   }
 }
