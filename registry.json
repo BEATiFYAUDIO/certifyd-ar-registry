@@ -1,11 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03T01:28:20.858Z",
+  "updatedAt": "2026-10-03T04:25:22.034Z",
   "records": {
     "https://certifyd.beatifygroup.com/u/beatify-group": {
       "spotify": {
         "1pKR6nU0QhMlbouug8OPtD": {
           "recordUrl": "records/beatify-group/spotify/1pKR6nU0QhMlbouug8OPtD.json"
+        }
+      },
+      "youtube": {
+        "beatifygroup": {
+          "recordUrl": "records/beatify-group/youtube/beatifygroup.json"
         }
       }
     }
