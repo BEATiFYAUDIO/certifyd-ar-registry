@@ -11,7 +11,7 @@
         "nodeUrl": "https://certifyd.beatifygroup.com",
         "profileUrl": "https://certifyd.beatifygroup.com/u/beatify-group"
       },
-      "sequence": 1,
+      "sequence": 2,
       "slots": {
         "action": {
           "label": "Download Certifyd Core",
@@ -27,11 +27,11 @@
           "label": "Tips"
         }
       },
-      "updatedAt": "2026-10-03T04:58:34.057Z",
+      "updatedAt": "2026-10-03T04:59:21.230Z",
       "version": 1
     },
     "publicKey": "gQDMYw2wJoJNK50hCbg13DGVFaANfFy5sybrl4l5j0o=",
-    "savedAt": "2026-10-03T04:58:34.057Z",
-    "signature": "MsGK0Pl8A12uwThRm6QlNXMGk6Euh45rB+1wj7qUeYoDdpExkPyzJiOwmNHPJ7mDhtjVxI4wVxZPNeds/VBRCw=="
+    "savedAt": "2026-10-03T04:59:21.230Z",
+    "signature": "9nGtLiOPtuG5PXW/9+i06WNrKhQfLjvOXnyMauDS4QVPNcHqUU3daLkO4GmpM8yUdO7aZi7XRgFxN6JIJDUiDA=="
   }
 }
