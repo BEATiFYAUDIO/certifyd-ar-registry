@@ -1,0 +1,37 @@
+{
+  "record": {
+    "id": "ar-record:https://certifyd.beatifygroup.com/u/beatify-group|youtube|beatifygroup",
+    "payload": {
+      "context": {
+        "account": "beatifygroup",
+        "provider": "youtube"
+      },
+      "creator": {
+        "handle": "beatify-group",
+        "nodeUrl": "https://certifyd.beatifygroup.com",
+        "profileUrl": "https://certifyd.beatifygroup.com/u/beatify-group"
+      },
+      "sequence": 1,
+      "slots": {
+        "action": {
+          "label": "Open the link on Saturday at 10pm",
+          "url": "https://videostar.com/"
+        },
+        "reveal": {
+          "text": "Get the link below",
+          "title": "Pre Release Party!",
+          "url": "https://videostar.com/"
+        },
+        "support": {
+          "destination": "excitedproxy14@walletofsatoshi.com",
+          "label": "100 Sats"
+        }
+      },
+      "updatedAt": "2026-10-03T04:25:19.353Z",
+      "version": 1
+    },
+    "publicKey": "DL7OrQ3v+QkytXqhC91VLvoEqM06ZrRGTfREUgKU0LQ=",
+    "savedAt": "2026-10-03T04:25:19.353Z",
+    "signature": "7ovfM3r+v4htYAw2F2WFa1LV751C8VTtPGpMJ2Er1Sn/wZ0C7ivNbbRSBvtosbxQmo5dOvgi48OXCUGm5djlCw=="
+  }
+}
