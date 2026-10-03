@@ -1,0 +1,37 @@
+{
+  "record": {
+    "id": "ar-record:https://certifyd.beatifygroup.com/u/beatify-group|github|beatifyaudio",
+    "payload": {
+      "context": {
+        "account": "beatifyaudio",
+        "provider": "github"
+      },
+      "creator": {
+        "handle": "beatify-group",
+        "nodeUrl": "https://certifyd.beatifygroup.com",
+        "profileUrl": "https://certifyd.beatifygroup.com/u/beatify-group"
+      },
+      "sequence": 1,
+      "slots": {
+        "action": {
+          "label": "Download Certifyd Core",
+          "url": "https://certifyd.me/downloads"
+        },
+        "reveal": {
+          "text": "Get the latest with Certifyd!",
+          "title": "Super Beta Incredible Software",
+          "url": "https://certifyd.me/downloads"
+        },
+        "support": {
+          "destination": "excitedproxy14@walletofsatoshi.com",
+          "label": "Tips"
+        }
+      },
+      "updatedAt": "2026-10-03T04:58:34.057Z",
+      "version": 1
+    },
+    "publicKey": "gQDMYw2wJoJNK50hCbg13DGVFaANfFy5sybrl4l5j0o=",
+    "savedAt": "2026-10-03T04:58:34.057Z",
+    "signature": "MsGK0Pl8A12uwThRm6QlNXMGk6Euh45rB+1wj7qUeYoDdpExkPyzJiOwmNHPJ7mDhtjVxI4wVxZPNeds/VBRCw=="
+  }
+}
