@@ -1,0 +1,37 @@
+{
+  "record": {
+    "id": "ar-record:https://certifyd.beatifygroup.com/u/beatify-group|tiktok|certifydofficial",
+    "payload": {
+      "context": {
+        "account": "certifydofficial",
+        "provider": "tiktok"
+      },
+      "creator": {
+        "handle": "beatify-group",
+        "nodeUrl": "https://certifyd.beatifygroup.com",
+        "profileUrl": "https://certifyd.beatifygroup.com/u/beatify-group"
+      },
+      "sequence": 1,
+      "slots": {
+        "action": {
+          "label": "Get Tickets",
+          "url": "https://undergroundrocks.ca/"
+        },
+        "reveal": {
+          "text": "Come to the after party! 9pm!",
+          "title": "Secret After Party",
+          "url": "https://undergroundrocks.ca/"
+        },
+        "support": {
+          "destination": "excitedproxy14@walletofsatoshi.com",
+          "label": "6000 Sats per ticket - wallet verified at the door."
+        }
+      },
+      "updatedAt": "2026-10-04T16:15:08.801Z",
+      "version": 1
+    },
+    "publicKey": "DL7OrQ3v+QkytXqhC91VLvoEqM06ZrRGTfREUgKU0LQ=",
+    "savedAt": "2026-10-04T16:15:08.801Z",
+    "signature": "Lmkp6n4Kka53ximCbENzWiX/EAL+6RJ8YDkN5qv8PshGGBaAt9nB1IIenhYRpthdtsQjg14XBkx+kmvzsOk6Dg=="
+  }
+}
