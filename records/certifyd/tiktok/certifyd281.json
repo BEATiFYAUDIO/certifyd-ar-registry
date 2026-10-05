@@ -1,0 +1,37 @@
+{
+  "record": {
+    "id": "ar-record:https://public.certifyd.me/u/certifyd|tiktok|certifyd281",
+    "payload": {
+      "context": {
+        "account": "certifyd281",
+        "provider": "tiktok"
+      },
+      "creator": {
+        "handle": "certifyd",
+        "nodeUrl": "https://public.certifyd.me",
+        "profileUrl": "https://public.certifyd.me/u/certifyd"
+      },
+      "sequence": 2,
+      "slots": {
+        "action": {
+          "label": "Join now",
+          "url": "https://certifyd.me/"
+        },
+        "reveal": {
+          "text": "Co-founder of Certifyd...",
+          "title": "Secret Superstar Producer",
+          "url": "https://vassal.certifyd.me/"
+        },
+        "support": {
+          "destination": "excitedproxy14@walletofsatoshi.com",
+          "label": "Pay the man"
+        }
+      },
+      "updatedAt": "2026-10-05T05:32:02.791Z",
+      "version": 1
+    },
+    "publicKey": "1zGWxpMCrt6B3gr0juBUR0e12cpOtsUTKn725H1IQrc=",
+    "savedAt": "2026-10-05T05:32:02.791Z",
+    "signature": "a4QqRY+pLqFbVcFd7QgWBmYYYCCnGwje24o2oagRfUycS1FyXgHqN64swBkz6WVAUrp26keHEfnaz8zA3HdqBw=="
+  }
+}
