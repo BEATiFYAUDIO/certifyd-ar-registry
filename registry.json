@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T04:46:52.007Z",
+  "updatedAt": "2026-10-05T05:32:07.893Z",
   "records": {
     "https://certifyd.beatifygroup.com/u/beatify-group": {
       "spotify": {
@@ -42,6 +42,11 @@
       "youtube": {
         "certifydcreator": {
           "recordUrl": "records/certifyd/youtube/certifydcreator.json"
+        }
+      },
+      "tiktok": {
+        "certifyd281": {
+          "recordUrl": "records/certifyd/tiktok/certifyd281.json"
         }
       }
     }
