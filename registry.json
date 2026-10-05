@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T16:15:15.032Z",
+  "updatedAt": "2026-10-05T02:27:09.770Z",
   "records": {
     "https://certifyd.beatifygroup.com/u/beatify-group": {
       "spotify": {
@@ -21,6 +21,13 @@
       "tiktok": {
         "certifydofficial": {
           "recordUrl": "records/beatify-group/tiktok/certifydofficial.json"
+        }
+      }
+    },
+    "https://certifyd.blessedrthe.fyi/u/blessedrthe": {
+      "github": {
+        "blessed-ui": {
+          "recordUrl": "records/blessedrthe/github/blessed-ui.json"
         }
       }
     }
