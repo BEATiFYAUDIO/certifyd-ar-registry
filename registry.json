@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T02:27:09.770Z",
+  "updatedAt": "2026-10-05T04:05:43.476Z",
   "records": {
     "https://certifyd.beatifygroup.com/u/beatify-group": {
       "spotify": {
@@ -28,6 +28,13 @@
       "github": {
         "blessed-ui": {
           "recordUrl": "records/blessedrthe/github/blessed-ui.json"
+        }
+      }
+    },
+    "https://certifyd.darrylhillock.com/u/darryl-hillock": {
+      "youtube": {
+        "darrylhillock": {
+          "recordUrl": "records/darryl-hillock/youtube/darrylhillock.json"
         }
       }
     }
