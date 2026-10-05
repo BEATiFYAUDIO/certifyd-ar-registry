@@ -1,0 +1,37 @@
+{
+  "record": {
+    "id": "ar-record:https://certifyd.darrylhillock.com/u/darryl-hillock|youtube|darrylhillock",
+    "payload": {
+      "context": {
+        "account": "darrylhillock",
+        "provider": "youtube"
+      },
+      "creator": {
+        "handle": "darryl-hillock",
+        "nodeUrl": "https://certifyd.darrylhillock.com",
+        "profileUrl": "https://certifyd.darrylhillock.com/u/darryl-hillock"
+      },
+      "sequence": 1,
+      "slots": {
+        "action": {
+          "label": "Get tickets",
+          "url": "https://ontop.com/"
+        },
+        "reveal": {
+          "text": "All my uncensored shit is on Certifyd!",
+          "title": "Check out my profile for uncensored",
+          "url": "https://ontop.com/"
+        },
+        "support": {
+          "destination": "excitedproxy14@walletofsatoshi.com",
+          "label": "Send Sats"
+        }
+      },
+      "updatedAt": "2026-10-05T04:03:54.359Z",
+      "version": 1
+    },
+    "publicKey": "6XG88pxNpkmtdeRNjUoQWDwz6t1paUZzmCE79ZaEVgg=",
+    "savedAt": "2026-10-05T04:03:54.359Z",
+    "signature": "TfLU/SiEBnoLT4mPGYPO5sSLpI7FPgTXVDf0HgvKk8UREqqNvtXyHhAUEgyO/BNZXexxGl0ks1wJDQ7LoHuPBQ=="
+  }
+}
