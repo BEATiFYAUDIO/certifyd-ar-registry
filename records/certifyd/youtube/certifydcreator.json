@@ -11,7 +11,7 @@
         "nodeUrl": "https://public.certifyd.me",
         "profileUrl": "https://public.certifyd.me/u/certifyd"
       },
-      "sequence": 2,
+      "sequence": 3,
       "slots": {
         "action": {
           "label": "Join Certifyd",
@@ -27,11 +27,11 @@
           "label": "Bitcoin Powered"
         }
       },
-      "updatedAt": "2026-10-05T04:46:15.269Z",
+      "updatedAt": "2026-10-05T04:46:46.952Z",
       "version": 1
     },
     "publicKey": "1zGWxpMCrt6B3gr0juBUR0e12cpOtsUTKn725H1IQrc=",
-    "savedAt": "2026-10-05T04:46:15.269Z",
-    "signature": "7vVXO48i9ZXSesW4mTg9YF0J1kbbK8BRfaiJKsdmPdZSltKgcbx20BjaJS8d3Tk3x1PPWsQs6D7ER003bcFUAA=="
+    "savedAt": "2026-10-05T04:46:46.952Z",
+    "signature": "d7JcaCsuow5U6m6LNumpuyDmY2RZ0RxVN+e4sMYU4+ixSykqgpZwSCfgb5ufP1K9y+DzerGJQVU7p6FERWATCQ=="
   }
 }
