@@ -1,0 +1,37 @@
+{
+  "record": {
+    "id": "ar-record:https://certifyd.blessedrthe.fyi/u/blessedrthe|github|blessed-ui",
+    "payload": {
+      "context": {
+        "account": "blessed-ui",
+        "provider": "github"
+      },
+      "creator": {
+        "handle": "blessedrthe",
+        "nodeUrl": "https://certifyd.blessedrthe.fyi",
+        "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
+      },
+      "sequence": 1,
+      "slots": {
+        "action": {
+          "label": "Influence your biology",
+          "url": "https://youtu.be/Jc3w-eZsaFs?si=OiDoZq9kof_rhPBE"
+        },
+        "reveal": {
+          "text": "You can expand your mind.",
+          "title": "thought Easter Egg",
+          "url": "https://youtu.be/9KACZGoJCAk?si=4YYRlV_4ipUQm13Q"
+        },
+        "support": {
+          "destination": "tealbadge35@walletofsatoshi.com",
+          "label": "Buy me a coffee"
+        }
+      },
+      "updatedAt": "2026-10-05T02:27:04.837Z",
+      "version": 1
+    },
+    "publicKey": "u+8bBZRQWKJTw/BnySHX/1ddQykEgxIsVWgHm+nYa9E=",
+    "savedAt": "2026-10-05T02:27:04.837Z",
+    "signature": "qCWlpJr94XIBXRG5t9lR9Fjvo8yWGhO6r/gLlE+GRY0elTDmxzuz8anmXh136KmEizviOULj7bbZ94uitKsTAA=="
+  }
+}
