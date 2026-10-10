@@ -11,7 +11,7 @@
         "nodeUrl": "https://certifyd.stillwaters.fyi",
         "profileUrl": "https://certifyd.stillwaters.fyi/u/stillwaters"
       },
-      "sequence": 2,
+      "sequence": 3,
       "slots": {
         "action": {
           "label": "Get Tickets",
@@ -27,11 +27,11 @@
           "label": "Admission 1000 sats"
         }
       },
-      "updatedAt": "2026-10-10T18:08:46.902Z",
+      "updatedAt": "2026-10-10T18:09:26.671Z",
       "version": 1
     },
     "publicKey": "7mhyTB4V6CvOdvLL7w7Kd2sHNYlS9TVHI204RcOcsBo=",
-    "savedAt": "2026-10-10T18:08:46.902Z",
-    "signature": "UNBdIbfCCFYYPglU2h2XEK2Ynt3Lckz6Rt6x7o8JotnMQmLriBc4YUO/ElF4/SU23HCdDfEsE2i9SZ3i2LjHAw=="
+    "savedAt": "2026-10-10T18:09:26.671Z",
+    "signature": "AgGf117aq2udMMJN1RglZbTmEvVZiEjj6dIt19n/9YTjG/8LlGhGpHHONe+onANhuNLL7MFny7JI09yRfa12AQ=="
   }
 }
