@@ -11,7 +11,7 @@
         "nodeUrl": "https://certifyd.beatifygroup.com",
         "profileUrl": "https://certifyd.beatifygroup.com/u/beatify-group"
       },
-      "sequence": 4,
+      "sequence": 5,
       "slots": {
         "promotion": {
           "active": true,
@@ -21,11 +21,11 @@
           "offer": "Claim your reward! 20% off"
         }
       },
-      "updatedAt": "2026-10-15T21:52:26.316Z",
+      "updatedAt": "2026-10-15T21:55:13.149Z",
       "version": 1
     },
     "publicKey": "K8YtwKrGJ74WtpNjIeEq0zqdiJmkNDKN17/VyupWM7c=",
-    "savedAt": "2026-10-15T21:52:26.316Z",
-    "signature": "F/kyPGebyfe1sHe6akBKEYz1pF0snuHFOkabbGAp1UXldad4TWMEEJeVeD4FXFa4WrHQTkAkbkFZwR4HYK1ABQ=="
+    "savedAt": "2026-10-15T21:55:13.149Z",
+    "signature": "zPzru0lw8d2g/3FKsiMAYG/e8movq2pfz93EgAKdBdtAbkOzgNAbVDEKqBikbWPbo+fby3b7FLyhivropRINAw=="
   }
 }
