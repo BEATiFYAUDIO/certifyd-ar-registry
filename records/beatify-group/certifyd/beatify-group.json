@@ -11,21 +11,21 @@
         "nodeUrl": "https://certifyd.beatifygroup.com",
         "profileUrl": "https://certifyd.beatifygroup.com/u/beatify-group"
       },
-      "sequence": 1,
+      "sequence": 2,
       "slots": {
         "promotion": {
           "active": true,
-          "description": "Temporary validation card for the Certifyd sovereign promotion workflow.",
-          "destination": "https://certifyd.me/",
-          "headline": "Controlled AR runtime test",
-          "offer": "View Certifyd"
+          "description": "Updated temporary card proving the signed sovereign promotion lifecycle.",
+          "destination": "https://certifyd.me/downloads/",
+          "headline": "Controlled AR runtime test — updated",
+          "offer": "See what is new"
         }
       },
-      "updatedAt": "2026-10-15T19:59:10.983Z",
+      "updatedAt": "2026-10-15T20:01:44.466Z",
       "version": 1
     },
     "publicKey": "b78GLnReiTHQjPevU1kGEBFhJshHzK4wtX1NRLT7uPE=",
-    "savedAt": "2026-10-15T19:59:10.983Z",
-    "signature": "EupBIJT2OV0RUrhT+4zMHPGuUm9vCge+k96UO3aDWI+m1XVCf9eqHekKfpH7I3tSgZe3ZPbiJ25+087vVxIWCg=="
+    "savedAt": "2026-10-15T20:01:44.466Z",
+    "signature": "STmg/63o99bWIuZrVBJQKhCCpdh1c6xP1U3vcZAU5+TbmRsg3yKPCJIl+XLN0EEd9WLbYGDabkVUxYQ4Ffe7DA=="
   }
 }
