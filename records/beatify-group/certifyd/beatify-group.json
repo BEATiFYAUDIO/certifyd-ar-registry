@@ -1,0 +1,31 @@
+{
+  "record": {
+    "id": "ar-record:https://certifyd.beatifygroup.com/u/beatify-group|certifyd|beatify-group",
+    "payload": {
+      "context": {
+        "account": "beatify-group",
+        "provider": "certifyd"
+      },
+      "creator": {
+        "handle": "beatify-group",
+        "nodeUrl": "https://certifyd.beatifygroup.com",
+        "profileUrl": "https://certifyd.beatifygroup.com/u/beatify-group"
+      },
+      "sequence": 1,
+      "slots": {
+        "promotion": {
+          "active": true,
+          "description": "Temporary validation card for the Certifyd sovereign promotion workflow.",
+          "destination": "https://certifyd.me/",
+          "headline": "Controlled AR runtime test",
+          "offer": "View Certifyd"
+        }
+      },
+      "updatedAt": "2026-10-15T19:59:10.983Z",
+      "version": 1
+    },
+    "publicKey": "b78GLnReiTHQjPevU1kGEBFhJshHzK4wtX1NRLT7uPE=",
+    "savedAt": "2026-10-15T19:59:10.983Z",
+    "signature": "EupBIJT2OV0RUrhT+4zMHPGuUm9vCge+k96UO3aDWI+m1XVCf9eqHekKfpH7I3tSgZe3ZPbiJ25+087vVxIWCg=="
+  }
+}
