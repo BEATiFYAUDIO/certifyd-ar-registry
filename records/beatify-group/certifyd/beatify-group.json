@@ -1,31 +1,27 @@
 {
   "record": {
     "id": "ar-record:https://certifyd.beatifygroup.com/u/beatify-group|certifyd|beatify-group",
+    "publicKey": "b78GLnReiTHQjPevU1kGEBFhJshHzK4wtX1NRLT7uPE=",
     "payload": {
-      "context": {
-        "account": "beatify-group",
-        "provider": "certifyd"
-      },
+      "version": 1,
       "creator": {
-        "handle": "beatify-group",
+        "profileUrl": "https://certifyd.beatifygroup.com/u/beatify-group",
         "nodeUrl": "https://certifyd.beatifygroup.com",
-        "profileUrl": "https://certifyd.beatifygroup.com/u/beatify-group"
+        "handle": "beatify-group"
       },
-      "sequence": 2,
+      "context": {
+        "provider": "certifyd",
+        "account": "beatify-group"
+      },
       "slots": {
         "promotion": {
-          "active": true,
-          "description": "Updated temporary card proving the signed sovereign promotion lifecycle.",
-          "destination": "https://certifyd.me/downloads/",
-          "headline": "Controlled AR runtime test — updated",
-          "offer": "See what is new"
+          "active": false
         }
       },
-      "updatedAt": "2026-10-15T20:01:44.466Z",
-      "version": 1
+      "sequence": 3,
+      "updatedAt": "2026-10-15T20:05:40.063Z"
     },
-    "publicKey": "b78GLnReiTHQjPevU1kGEBFhJshHzK4wtX1NRLT7uPE=",
-    "savedAt": "2026-10-15T20:01:44.466Z",
-    "signature": "STmg/63o99bWIuZrVBJQKhCCpdh1c6xP1U3vcZAU5+TbmRsg3yKPCJIl+XLN0EEd9WLbYGDabkVUxYQ4Ffe7DA=="
+    "signature": "P/am8vcvxdTUg7CLKBWWmcoOnOL9dbgZyrj/7rHpl0WCxZafHn3TN7Le3VRklmIekYxX5GKYyoOOWlQ8c4TFAA==",
+    "savedAt": "2026-10-15T20:05:40.063Z"
   }
 }
