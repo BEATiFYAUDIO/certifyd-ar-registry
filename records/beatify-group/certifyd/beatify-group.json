@@ -1,27 +1,31 @@
 {
   "record": {
     "id": "ar-record:https://certifyd.beatifygroup.com/u/beatify-group|certifyd|beatify-group",
-    "publicKey": "b78GLnReiTHQjPevU1kGEBFhJshHzK4wtX1NRLT7uPE=",
     "payload": {
-      "version": 1,
-      "creator": {
-        "profileUrl": "https://certifyd.beatifygroup.com/u/beatify-group",
-        "nodeUrl": "https://certifyd.beatifygroup.com",
-        "handle": "beatify-group"
-      },
       "context": {
-        "provider": "certifyd",
-        "account": "beatify-group"
+        "account": "beatify-group",
+        "provider": "certifyd"
       },
+      "creator": {
+        "handle": "beatify-group",
+        "nodeUrl": "https://certifyd.beatifygroup.com",
+        "profileUrl": "https://certifyd.beatifygroup.com/u/beatify-group"
+      },
+      "sequence": 4,
       "slots": {
         "promotion": {
-          "active": false
+          "active": true,
+          "description": "Save money and get the music you love.",
+          "destination": "https://beatifygroup.com/",
+          "headline": "New Release Coming Soon!",
+          "offer": "Claim your reward! 20% off"
         }
       },
-      "sequence": 3,
-      "updatedAt": "2026-10-15T20:05:40.063Z"
+      "updatedAt": "2026-10-15T21:52:26.316Z",
+      "version": 1
     },
-    "signature": "P/am8vcvxdTUg7CLKBWWmcoOnOL9dbgZyrj/7rHpl0WCxZafHn3TN7Le3VRklmIekYxX5GKYyoOOWlQ8c4TFAA==",
-    "savedAt": "2026-10-15T20:05:40.063Z"
+    "publicKey": "K8YtwKrGJ74WtpNjIeEq0zqdiJmkNDKN17/VyupWM7c=",
+    "savedAt": "2026-10-15T21:52:26.316Z",
+    "signature": "F/kyPGebyfe1sHe6akBKEYz1pF0snuHFOkabbGAp1UXldad4TWMEEJeVeD4FXFa4WrHQTkAkbkFZwR4HYK1ABQ=="
   }
 }
