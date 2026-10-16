@@ -1,0 +1,37 @@
+{
+  "record": {
+    "id": "ar-record:https://certifyd.blessedrthe.fyi/u/blessedrthe|youtube|blessedbeatify",
+    "payload": {
+      "context": {
+        "account": "blessedbeatify",
+        "provider": "youtube"
+      },
+      "creator": {
+        "handle": "blessedrthe",
+        "nodeUrl": "https://certifyd.blessedrthe.fyi",
+        "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
+      },
+      "sequence": 2,
+      "slots": {
+        "action": {
+          "label": "Buy Now!!",
+          "url": "https://theunderground.ca/"
+        },
+        "reveal": {
+          "text": "Secret Show Friday at 9pm",
+          "title": "Come to the show!",
+          "url": "https://theunderground.ca/"
+        },
+        "support": {
+          "destination": "tealbadge35@walletofsatoshi.com",
+          "label": "Tickets 5000 satas ea. 2/4 8000"
+        }
+      },
+      "updatedAt": "2026-10-16T04:47:35.794Z",
+      "version": 1
+    },
+    "publicKey": "XjFzdEzurHAa4pIG5gSu6pG7UxspzdjfYyO01QIPyUI=",
+    "savedAt": "2026-10-16T04:47:35.794Z",
+    "signature": "5ASWMWFGvJbVJaiwCqbLe3xI3REhB3FoymVyMne1UYbYVMwDC+pEDSpncLttffnI7hv9zTztWgUNEAsgwRuiDA=="
+  }
+}
