@@ -1,0 +1,31 @@
+{
+  "record": {
+    "id": "ar-record:https://certifyd.blessedrthe.fyi/u/blessedrthe|certifyd|blessedrthe",
+    "payload": {
+      "context": {
+        "account": "blessedrthe",
+        "provider": "certifyd"
+      },
+      "creator": {
+        "handle": "blessedrthe",
+        "nodeUrl": "https://certifyd.blessedrthe.fyi",
+        "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
+      },
+      "sequence": 1,
+      "slots": {
+        "promotion": {
+          "active": true,
+          "description": "Get them only through me!",
+          "destination": "https://www.youtube.com/@BlessedBeatify",
+          "headline": "BUY your tickets on my YouTube using Certifyd.",
+          "offer": "5000 Sats for 1 ticket, 8000 for 2!"
+        }
+      },
+      "updatedAt": "2026-10-16T04:43:00.290Z",
+      "version": 1
+    },
+    "publicKey": "XjFzdEzurHAa4pIG5gSu6pG7UxspzdjfYyO01QIPyUI=",
+    "savedAt": "2026-10-16T04:43:00.290Z",
+    "signature": "gq/4BpqYYYhj363+H9V+zMsMAWjlGUSqVcfP4Y8ugRG5yU//95WFbuO6N4TJ1KIt6bXtZQ6RYVjyuQdVX/lmCg=="
+  }
+}
