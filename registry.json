@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T04:43:04.264Z",
+  "updatedAt": "2026-10-16T04:47:38.767Z",
   "records": {
     "https://certifyd.beatifygroup.com/u/beatify-group": {
       "spotify": {
@@ -38,6 +38,11 @@
       "certifyd": {
         "blessedrthe": {
           "recordUrl": "records/blessedrthe/certifyd/blessedrthe.json"
+        }
+      },
+      "youtube": {
+        "blessedbeatify": {
+          "recordUrl": "records/blessedrthe/youtube/blessedbeatify.json"
         }
       }
     },
