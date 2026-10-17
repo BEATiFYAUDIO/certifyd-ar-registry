@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T01:43:57.743Z",
+  "updatedAt": "2026-10-17T16:06:46.581Z",
   "records": {
     "https://certifyd.beatifygroup.com/u/beatify-group": {
       "spotify": {
@@ -50,6 +50,11 @@
       "youtube": {
         "darrylhillock": {
           "recordUrl": "records/darryl-hillock/youtube/darrylhillock.json"
+        }
+      },
+      "tiktok": {
+        "darrylhillock39": {
+          "recordUrl": "records/darryl-hillock/tiktok/darrylhillock39.json"
         }
       }
     },
