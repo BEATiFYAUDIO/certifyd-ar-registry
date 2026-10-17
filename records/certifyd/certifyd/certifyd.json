@@ -1,0 +1,31 @@
+{
+  "record": {
+    "id": "ar-record:https://public.certifyd.me/u/certifyd|certifyd|certifyd",
+    "payload": {
+      "context": {
+        "account": "certifyd",
+        "provider": "certifyd"
+      },
+      "creator": {
+        "handle": "certifyd",
+        "nodeUrl": "https://public.certifyd.me",
+        "profileUrl": "https://public.certifyd.me/u/certifyd"
+      },
+      "sequence": 1,
+      "slots": {
+        "promotion": {
+          "active": true,
+          "description": "Core lets you publish and distribute to the web and get paid without a middleman. Not even us.",
+          "destination": "https://fan.certifyd.me/",
+          "headline": "Core Available Now!",
+          "offer": "Get Core AND Discovery FREE - Limited time only"
+        }
+      },
+      "updatedAt": "2026-10-17T01:43:43.036Z",
+      "version": 1
+    },
+    "publicKey": "iFCurReiGDVuYRO36QbENSiTM6AoLAafgqpXVAeDHBg=",
+    "savedAt": "2026-10-17T01:43:43.036Z",
+    "signature": "cjm7z2ViwWVRAiMOPcCSUA6HC4ghed4z3MHVoqPa/6vEtGV0T9j2ikltErSXT/mcWBbj/nI2diJfb9o4GQPsBA=="
+  }
+}
