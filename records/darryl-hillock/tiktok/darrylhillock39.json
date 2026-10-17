@@ -11,7 +11,7 @@
         "nodeUrl": "https://certifyd.darrylhillock.com",
         "profileUrl": "https://certifyd.darrylhillock.com/u/darryl-hillock"
       },
-      "sequence": 1,
+      "sequence": 2,
       "slots": {
         "action": {
           "label": "RUN CORE",
@@ -27,11 +27,11 @@
           "label": "ITS FREE"
         }
       },
-      "updatedAt": "2026-10-17T16:04:46.640Z",
+      "updatedAt": "2026-10-17T16:05:06.018Z",
       "version": 1
     },
     "publicKey": "6XG88pxNpkmtdeRNjUoQWDwz6t1paUZzmCE79ZaEVgg=",
-    "savedAt": "2026-10-17T16:04:46.640Z",
-    "signature": "PsLizRI4hzM+X21Cnte9uRONMP6R7zkuJjMuzikfVka4/qT9oE0aL6y4QLrMPrYDgYCAJY/Od9FvCLtFqQLaBQ=="
+    "savedAt": "2026-10-17T16:05:06.018Z",
+    "signature": "3BWp8b7ssxGiPfEgiZBcKVv7YmpqxnjPKYIWq8oHq2g0NnoJuhEfl06Wm/hf1GMN5y71KB9U4/eS1+CV4jJaCw=="
   }
 }
