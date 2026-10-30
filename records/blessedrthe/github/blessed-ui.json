@@ -1,37 +1,37 @@
 {
   "record": {
     "id": "ar-record:https://certifyd.blessedrthe.fyi/u/blessedrthe|github|blessed-ui",
-    "publicKey": "XjFzdEzurHAa4pIG5gSu6pG7UxspzdjfYyO01QIPyUI=",
     "payload": {
-      "version": 1,
-      "creator": {
-        "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe",
-        "nodeUrl": "https://certifyd.blessedrthe.fyi",
-        "handle": "blessedrthe"
-      },
       "context": {
-        "provider": "github",
-        "account": "blessed-ui"
+        "account": "blessed-ui",
+        "provider": "github"
       },
+      "creator": {
+        "handle": "blessedrthe",
+        "nodeUrl": "https://certifyd.blessedrthe.fyi",
+        "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
+      },
+      "sequence": 3,
       "slots": {
-        "reveal": {
-          "title": "Code, chords & creator control",
-          "text": "A small doorway from the code to the music. Trade a scroll for a score: explore Prelude in D Minor, then discover more of Blessedrthe's creator-owned catalog.",
-          "url": "https://certifyd.blessedrthe.fyi/buy/cmvmuozjp001vuwhwd9jq6g51"
-        },
-        "support": {
-          "label": "Keep the experiments alive",
-          "destination": "rancidscorpio981@walletofsatoshi.com"
-        },
         "action": {
           "label": "Explore the creator catalog",
           "url": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
+        },
+        "reveal": {
+          "text": "A small doorway from the code to the music. Trade a scroll for a score: explore Prelude in D Minor, then discover more of Blessedrthe's creator-owned catalog.",
+          "title": "Code, chords & creator control",
+          "url": "https://certifyd.blessedrthe.fyi/buy/cmvmuozjp001vuwhwd9jq6g51"
+        },
+        "support": {
+          "destination": "rancidscorpio981@walletofsatoshi.com",
+          "label": "Keep the experiments alive"
         }
       },
-      "sequence": 2,
-      "updatedAt": "2026-10-30T05:57:21.038Z"
+      "updatedAt": "2026-10-30T06:03:01.448Z",
+      "version": 1
     },
-    "signature": "2as37X+ntficNviqKW/xfZkPJZjWDjHtUP4wtv5UYR7erMAVaJSwmTDUaWKKeejlIUimGwR7QpJnzgLxHKcACA==",
-    "savedAt": "2026-10-30T05:57:21.038Z"
+    "publicKey": "1oldABsXp8JyL6rPVPWiH9DLv5W9o0euW0JV61RCZPc=",
+    "savedAt": "2026-10-30T06:03:01.448Z",
+    "signature": "KYsfQ3sNU/9jou+q2uQsrhlOdwzLIxHprtp0mmQY936wEsVeM6Amojxtb8lB5DApXfxX5ZIYDmVkmuCI+B1dCw=="
   }
 }
