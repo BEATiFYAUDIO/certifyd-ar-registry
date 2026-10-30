@@ -1,37 +1,37 @@
 {
   "record": {
     "id": "ar-record:https://certifyd.blessedrthe.fyi/u/blessedrthe|youtube|blessedbeatify",
+    "publicKey": "XjFzdEzurHAa4pIG5gSu6pG7UxspzdjfYyO01QIPyUI=",
     "payload": {
-      "context": {
-        "account": "blessedbeatify",
-        "provider": "youtube"
-      },
+      "version": 1,
       "creator": {
-        "handle": "blessedrthe",
+        "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe",
         "nodeUrl": "https://certifyd.blessedrthe.fyi",
-        "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
+        "handle": "blessedrthe"
       },
-      "sequence": 2,
+      "context": {
+        "provider": "youtube",
+        "account": "blessedbeatify"
+      },
       "slots": {
-        "action": {
-          "label": "Buy Now!!",
-          "url": "https://theunderground.ca/"
-        },
         "reveal": {
-          "text": "Secret Show Friday at 9pm",
-          "title": "Come to the show!",
-          "url": "https://theunderground.ca/"
+          "title": "The video is only the doorway",
+          "text": "There is more here than a channel: Terry, Chemical Love, a classical score, and a creator-owned catalog. Meet Blessedrthe beyond the video and discover the work directly.",
+          "url": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
         },
         "support": {
-          "destination": "tealbadge35@walletofsatoshi.com",
-          "label": "Tickets 5000 satas ea. 2/4 8000"
+          "label": "Fuel the next independent release",
+          "destination": "rancidscorpio981@walletofsatoshi.com"
+        },
+        "action": {
+          "label": "Listen to Chemical Love",
+          "url": "https://certifyd.blessedrthe.fyi/buy/cmq71a5j30003uwvweomhgri8"
         }
       },
-      "updatedAt": "2026-10-16T04:47:35.794Z",
-      "version": 1
+      "sequence": 3,
+      "updatedAt": "2026-10-30T05:56:39.781Z"
     },
-    "publicKey": "XjFzdEzurHAa4pIG5gSu6pG7UxspzdjfYyO01QIPyUI=",
-    "savedAt": "2026-10-16T04:47:35.794Z",
-    "signature": "5ASWMWFGvJbVJaiwCqbLe3xI3REhB3FoymVyMne1UYbYVMwDC+pEDSpncLttffnI7hv9zTztWgUNEAsgwRuiDA=="
+    "signature": "jDoDbH7bdtbB5QtbPrh3adE1NHYVDqipE1fYlnv7Owhiz7XNZbd8Iua3Yr9lfJEVrAWoLXNFnAlcJ80xAdjnAQ==",
+    "savedAt": "2026-10-30T05:56:39.781Z"
   }
 }
