@@ -11,27 +11,27 @@
         "nodeUrl": "https://certifyd.blessedrthe.fyi",
         "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
       },
-      "sequence": 4,
+      "sequence": 5,
       "slots": {
         "action": {
           "label": "Listen to Chemical Love",
           "url": "https://certifyd.blessedrthe.fyi/buy/cmq71a5j30003uwvweomhgri8"
         },
         "reveal": {
-          "text": "There is more here than a channel: Terry, Chemical Love, a classical score, and a creator-owned catalog. Meet Blessedrthe beyond the video and discover the work directly.",
+          "text": "There is more here than a channel: music, stories, and a creator-owned catalog. Visit Blessedrthe online, then dive into Chemical Love below.",
           "title": "The video is only the doorway",
-          "url": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
+          "url": "https://blessedrthe.fyi/"
         },
         "support": {
           "destination": "rancidscorpio981@walletofsatoshi.com",
           "label": "Fuel the next independent release"
         }
       },
-      "updatedAt": "2026-10-30T06:01:40.958Z",
+      "updatedAt": "2026-10-30T06:35:57.024Z",
       "version": 1
     },
     "publicKey": "1oldABsXp8JyL6rPVPWiH9DLv5W9o0euW0JV61RCZPc=",
-    "savedAt": "2026-10-30T06:01:40.958Z",
-    "signature": "Vj640SP1sqeZAk96/m3iimh4Le4Q/CMOTZvE6NzYji9/ygiINvCoYpK38b1Qci5PIDGJKb9QrMPF3GRp+BknBw=="
+    "savedAt": "2026-10-30T06:35:57.024Z",
+    "signature": "GrpzMhLTIGwJSj96KrCBtxMAyskpJ6oEs5hDKoh/bDvRX7iS8WXM2rNjezaHBlduxFGVIeWVX8JuuaW1ICjxAw=="
   }
 }
