@@ -11,27 +11,27 @@
         "nodeUrl": "https://certifyd.blessedrthe.fyi",
         "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
       },
-      "sequence": 3,
+      "sequence": 4,
       "slots": {
         "action": {
           "label": "Go deeper: listen to Terry",
           "url": "https://certifyd.blessedrthe.fyi/buy/cmptvzmx00001uwxwoyntdwwk"
         },
         "reveal": {
-          "text": "Short clip. Longer story. Step off the scroll and into Blessedrthe's catalog: original songs, playable previews, sheet music, and a direct way to support the creator.",
+          "text": "Short clip. Longer story. Step off the scroll and into Blessedrthe's world. Visit the artist website, then go deeper with Terry below.",
           "title": "You found the bonus track",
-          "url": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
+          "url": "https://blessedrthe.fyi/"
         },
         "support": {
           "destination": "rancidscorpio981@walletofsatoshi.com",
           "label": "Send a little love in sats"
         }
       },
-      "updatedAt": "2026-10-30T06:02:49.897Z",
+      "updatedAt": "2026-10-30T06:36:40.416Z",
       "version": 1
     },
     "publicKey": "1oldABsXp8JyL6rPVPWiH9DLv5W9o0euW0JV61RCZPc=",
-    "savedAt": "2026-10-30T06:02:49.897Z",
-    "signature": "ZDQR+M5ojfC9xmrCVvBLWKj/ObrUvc8R/uC2F4UcDmW6tbKsRP7Da4nR8hKCcY39/12VEIKb5TDNSXp4TfbyDw=="
+    "savedAt": "2026-10-30T06:36:40.416Z",
+    "signature": "tYejGpguiDpBB1rC/XA6AgN9THx5t3wSxpWwkw4ma6E3Xyvy1GIoOFrn/OcSrjPLZM5T8QiMaD7WGDR9ptauAQ=="
   }
 }
