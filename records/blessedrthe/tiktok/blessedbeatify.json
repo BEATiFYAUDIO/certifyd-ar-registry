@@ -11,7 +11,7 @@
         "nodeUrl": "https://certifyd.blessedrthe.fyi",
         "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
       },
-      "sequence": 4,
+      "sequence": 5,
       "slots": {
         "action": {
           "label": "Go deeper: listen to Terry",
@@ -27,11 +27,11 @@
           "label": "Send a little love in sats"
         }
       },
-      "updatedAt": "2026-10-30T06:36:40.416Z",
+      "updatedAt": "2026-10-30T06:43:18.590Z",
       "version": 1
     },
     "publicKey": "1oldABsXp8JyL6rPVPWiH9DLv5W9o0euW0JV61RCZPc=",
-    "savedAt": "2026-10-30T06:36:40.416Z",
-    "signature": "tYejGpguiDpBB1rC/XA6AgN9THx5t3wSxpWwkw4ma6E3Xyvy1GIoOFrn/OcSrjPLZM5T8QiMaD7WGDR9ptauAQ=="
+    "savedAt": "2026-10-30T06:43:18.590Z",
+    "signature": "T8MgPZGE62Oycl7XVjRS+BGBD1jWU7vLp4WgHSqFisjVPzBdoKlPSliVxjqN+jjH60pBrYJ1dxPUfQPGc6eMAw=="
   }
 }
