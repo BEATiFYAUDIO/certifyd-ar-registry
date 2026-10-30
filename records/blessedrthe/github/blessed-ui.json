@@ -1,37 +1,37 @@
 {
   "record": {
     "id": "ar-record:https://certifyd.blessedrthe.fyi/u/blessedrthe|github|blessed-ui",
+    "publicKey": "XjFzdEzurHAa4pIG5gSu6pG7UxspzdjfYyO01QIPyUI=",
     "payload": {
-      "context": {
-        "account": "blessed-ui",
-        "provider": "github"
-      },
+      "version": 1,
       "creator": {
-        "handle": "blessedrthe",
+        "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe",
         "nodeUrl": "https://certifyd.blessedrthe.fyi",
-        "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
+        "handle": "blessedrthe"
       },
-      "sequence": 1,
+      "context": {
+        "provider": "github",
+        "account": "blessed-ui"
+      },
       "slots": {
-        "action": {
-          "label": "Influence your biology",
-          "url": "https://youtu.be/Jc3w-eZsaFs?si=OiDoZq9kof_rhPBE"
-        },
         "reveal": {
-          "text": "You can expand your mind.",
-          "title": "thought Easter Egg",
-          "url": "https://youtu.be/9KACZGoJCAk?si=4YYRlV_4ipUQm13Q"
+          "title": "Code, chords & creator control",
+          "text": "A small doorway from the code to the music. Trade a scroll for a score: explore Prelude in D Minor, then discover more of Blessedrthe's creator-owned catalog.",
+          "url": "https://certifyd.blessedrthe.fyi/buy/cmvmuozjp001vuwhwd9jq6g51"
         },
         "support": {
-          "destination": "tealbadge35@walletofsatoshi.com",
-          "label": "Buy me a coffee"
+          "label": "Keep the experiments alive",
+          "destination": "rancidscorpio981@walletofsatoshi.com"
+        },
+        "action": {
+          "label": "Explore the creator catalog",
+          "url": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
         }
       },
-      "updatedAt": "2026-10-05T02:27:04.837Z",
-      "version": 1
+      "sequence": 2,
+      "updatedAt": "2026-10-30T05:57:21.038Z"
     },
-    "publicKey": "u+8bBZRQWKJTw/BnySHX/1ddQykEgxIsVWgHm+nYa9E=",
-    "savedAt": "2026-10-05T02:27:04.837Z",
-    "signature": "qCWlpJr94XIBXRG5t9lR9Fjvo8yWGhO6r/gLlE+GRY0elTDmxzuz8anmXh136KmEizviOULj7bbZ94uitKsTAA=="
+    "signature": "2as37X+ntficNviqKW/xfZkPJZjWDjHtUP4wtv5UYR7erMAVaJSwmTDUaWKKeejlIUimGwR7QpJnzgLxHKcACA==",
+    "savedAt": "2026-10-30T05:57:21.038Z"
   }
 }
