@@ -1,37 +1,37 @@
 {
   "record": {
     "id": "ar-record:https://certifyd.blessedrthe.fyi/u/blessedrthe|youtube|blessedbeatify",
-    "publicKey": "XjFzdEzurHAa4pIG5gSu6pG7UxspzdjfYyO01QIPyUI=",
     "payload": {
-      "version": 1,
-      "creator": {
-        "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe",
-        "nodeUrl": "https://certifyd.blessedrthe.fyi",
-        "handle": "blessedrthe"
-      },
       "context": {
-        "provider": "youtube",
-        "account": "blessedbeatify"
+        "account": "blessedbeatify",
+        "provider": "youtube"
       },
+      "creator": {
+        "handle": "blessedrthe",
+        "nodeUrl": "https://certifyd.blessedrthe.fyi",
+        "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
+      },
+      "sequence": 4,
       "slots": {
-        "reveal": {
-          "title": "The video is only the doorway",
-          "text": "There is more here than a channel: Terry, Chemical Love, a classical score, and a creator-owned catalog. Meet Blessedrthe beyond the video and discover the work directly.",
-          "url": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
-        },
-        "support": {
-          "label": "Fuel the next independent release",
-          "destination": "rancidscorpio981@walletofsatoshi.com"
-        },
         "action": {
           "label": "Listen to Chemical Love",
           "url": "https://certifyd.blessedrthe.fyi/buy/cmq71a5j30003uwvweomhgri8"
+        },
+        "reveal": {
+          "text": "There is more here than a channel: Terry, Chemical Love, a classical score, and a creator-owned catalog. Meet Blessedrthe beyond the video and discover the work directly.",
+          "title": "The video is only the doorway",
+          "url": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
+        },
+        "support": {
+          "destination": "rancidscorpio981@walletofsatoshi.com",
+          "label": "Fuel the next independent release"
         }
       },
-      "sequence": 3,
-      "updatedAt": "2026-10-30T05:56:39.781Z"
+      "updatedAt": "2026-10-30T06:01:40.958Z",
+      "version": 1
     },
-    "signature": "jDoDbH7bdtbB5QtbPrh3adE1NHYVDqipE1fYlnv7Owhiz7XNZbd8Iua3Yr9lfJEVrAWoLXNFnAlcJ80xAdjnAQ==",
-    "savedAt": "2026-10-30T05:56:39.781Z"
+    "publicKey": "1oldABsXp8JyL6rPVPWiH9DLv5W9o0euW0JV61RCZPc=",
+    "savedAt": "2026-10-30T06:01:40.958Z",
+    "signature": "Vj640SP1sqeZAk96/m3iimh4Le4Q/CMOTZvE6NzYji9/ygiINvCoYpK38b1Qci5PIDGJKb9QrMPF3GRp+BknBw=="
   }
 }
