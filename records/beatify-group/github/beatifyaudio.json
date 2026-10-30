@@ -11,7 +11,7 @@
         "nodeUrl": "https://certifyd.beatifygroup.com",
         "profileUrl": "https://certifyd.beatifygroup.com/u/beatify-group"
       },
-      "sequence": 2,
+      "sequence": 3,
       "slots": {
         "action": {
           "label": "Download Certifyd Core",
@@ -23,15 +23,15 @@
           "url": "https://certifyd.me/downloads"
         },
         "support": {
-          "destination": "excitedproxy14@walletofsatoshi.com",
+          "destination": "ardentsync492@walletofsatoshi.com",
           "label": "Tips"
         }
       },
-      "updatedAt": "2026-10-03T04:59:21.230Z",
+      "updatedAt": "2026-10-30T05:36:55.173Z",
       "version": 1
     },
-    "publicKey": "gQDMYw2wJoJNK50hCbg13DGVFaANfFy5sybrl4l5j0o=",
-    "savedAt": "2026-10-03T04:59:21.230Z",
-    "signature": "9nGtLiOPtuG5PXW/9+i06WNrKhQfLjvOXnyMauDS4QVPNcHqUU3daLkO4GmpM8yUdO7aZi7XRgFxN6JIJDUiDA=="
+    "publicKey": "uJor7+V45tGrtx4DevHEfRvSKe45dVPMWZTyh5Pms48=",
+    "savedAt": "2026-10-30T05:36:55.173Z",
+    "signature": "dDxChjDd01n/Ttb32DABYkmO7fz6xA3IIkNNzPrlK0Zv4KESqXkm9ua9n2gKPbe2VGKrhh9nOKW97jZ1gDfNDg=="
   }
 }
