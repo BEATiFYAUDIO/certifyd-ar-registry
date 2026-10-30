@@ -11,13 +11,18 @@
         "nodeUrl": "https://public.certifyd.me",
         "profileUrl": "https://public.certifyd.me/u/certifyd"
       },
-      "sequence": 4,
-      "slots": {},
-      "updatedAt": "2026-10-30T04:36:46.233Z",
+      "sequence": 5,
+      "slots": {
+        "support": {
+          "destination": "ardentsync492@walletofsatoshi.com",
+          "label": "Send sats"
+        }
+      },
+      "updatedAt": "2026-10-30T04:41:00.147Z",
       "version": 1
     },
     "publicKey": "hyeZaCTGx7fAN8jQsw4unGaMvwtDEukrREhhubSIUbc=",
-    "savedAt": "2026-10-30T04:36:46.233Z",
-    "signature": "JuezuU/9Ak+/f47stWqZqrJeAaW2WncwsEvN7o0FtubXtY01rEgYemcAvrTqhJRhQEyCqSkGBsTPDau+l40cDA=="
+    "savedAt": "2026-10-30T04:41:00.147Z",
+    "signature": "P+pos2ZemDGPVDGGkv5Hz2YUM6ZZembTnRoR2OMAUHG0O86rQ1+7XOxo0BfzH/AftPd2hdwvLyw/o1uQyU1MAw=="
   }
 }
