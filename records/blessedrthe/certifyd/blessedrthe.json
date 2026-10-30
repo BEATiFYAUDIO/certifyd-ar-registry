@@ -1,31 +1,31 @@
 {
   "record": {
     "id": "ar-record:https://certifyd.blessedrthe.fyi/u/blessedrthe|certifyd|blessedrthe",
+    "publicKey": "XjFzdEzurHAa4pIG5gSu6pG7UxspzdjfYyO01QIPyUI=",
     "payload": {
-      "context": {
-        "account": "blessedrthe",
-        "provider": "certifyd"
-      },
+      "version": 1,
       "creator": {
-        "handle": "blessedrthe",
+        "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe",
         "nodeUrl": "https://certifyd.blessedrthe.fyi",
-        "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
+        "handle": "blessedrthe"
       },
-      "sequence": 1,
+      "context": {
+        "provider": "certifyd",
+        "account": "blessedrthe"
+      },
       "slots": {
         "promotion": {
           "active": true,
-          "description": "Get them only through me!",
-          "destination": "https://www.youtube.com/@BlessedBeatify",
-          "headline": "BUY your tickets on my YouTube using Certifyd.",
-          "offer": "5000 Sats for 1 ticket, 8000 for 2!"
+          "headline": "Meet the music behind the profile",
+          "offer": "Discover Chemical Love and the creator-owned catalog",
+          "description": "Original sounds, playable previews, and a direct connection to Blessedrthe. Explore the catalog and support the work that moves you.",
+          "destination": "https://certifyd.blessedrthe.fyi/buy/cmq71a5j30003uwvweomhgri8"
         }
       },
-      "updatedAt": "2026-10-16T04:43:00.290Z",
-      "version": 1
+      "sequence": 2,
+      "updatedAt": "2026-10-30T05:57:21.099Z"
     },
-    "publicKey": "XjFzdEzurHAa4pIG5gSu6pG7UxspzdjfYyO01QIPyUI=",
-    "savedAt": "2026-10-16T04:43:00.290Z",
-    "signature": "gq/4BpqYYYhj363+H9V+zMsMAWjlGUSqVcfP4Y8ugRG5yU//95WFbuO6N4TJ1KIt6bXtZQ6RYVjyuQdVX/lmCg=="
+    "signature": "8KIuNMbSPF1DJbxXJzMcYXP7t2qFmhw7ZI6OLGjm60z7O8Dmv6ZKvQB9HsaNSwBnDHnQfsP4ih29SD5o8DRtAQ==",
+    "savedAt": "2026-10-30T05:57:21.099Z"
   }
 }
