@@ -1,0 +1,37 @@
+{
+  "record": {
+    "id": "ar-record:https://certifyd.blessedrthe.fyi/u/blessedrthe|tiktok|blessedbeatify",
+    "publicKey": "XjFzdEzurHAa4pIG5gSu6pG7UxspzdjfYyO01QIPyUI=",
+    "payload": {
+      "version": 1,
+      "creator": {
+        "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe",
+        "nodeUrl": "https://certifyd.blessedrthe.fyi",
+        "handle": "blessedrthe"
+      },
+      "context": {
+        "provider": "tiktok",
+        "account": "blessedbeatify"
+      },
+      "slots": {
+        "reveal": {
+          "title": "You found the bonus track",
+          "text": "Short clip. Longer story. Step off the scroll and into Blessedrthe?s catalog: original songs, playable previews, sheet music, and a direct way to support the creator.",
+          "url": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
+        },
+        "support": {
+          "label": "Send a little love in sats",
+          "destination": "rancidscorpio981@walletofsatoshi.com"
+        },
+        "action": {
+          "label": "Go deeper: listen to Terry",
+          "url": "https://certifyd.blessedrthe.fyi/buy/cmptvzmx00001uwxwoyntdwwk"
+        }
+      },
+      "sequence": 1,
+      "updatedAt": "2026-10-30T05:56:39.793Z"
+    },
+    "signature": "dCUX4Exv3gur13XITut3w2mARiox9r5bGJQCiH/BXlCsKYk+LaC8OFXyMR+8iSRgz/dN/8AVpskcTdyel7KbCQ==",
+    "savedAt": "2026-10-30T05:56:39.793Z"
+  }
+}
