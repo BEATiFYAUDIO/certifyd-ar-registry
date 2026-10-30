@@ -11,7 +11,7 @@
         "nodeUrl": "https://certifyd.beatifygroup.com",
         "profileUrl": "https://certifyd.beatifygroup.com/u/beatify-group"
       },
-      "sequence": 1,
+      "sequence": 2,
       "slots": {
         "action": {
           "label": "Open the link on Saturday at 10pm",
@@ -23,15 +23,16 @@
           "url": "https://videostar.com/"
         },
         "support": {
-          "destination": "excitedproxy14@walletofsatoshi.com",
+          "amountSats": 100,
+          "destination": "ardentsync492@walletofsatoshi.com",
           "label": "100 Sats"
         }
       },
-      "updatedAt": "2026-10-03T04:25:19.353Z",
+      "updatedAt": "2026-10-30T05:29:45.267Z",
       "version": 1
     },
-    "publicKey": "DL7OrQ3v+QkytXqhC91VLvoEqM06ZrRGTfREUgKU0LQ=",
-    "savedAt": "2026-10-03T04:25:19.353Z",
-    "signature": "7ovfM3r+v4htYAw2F2WFa1LV751C8VTtPGpMJ2Er1Sn/wZ0C7ivNbbRSBvtosbxQmo5dOvgi48OXCUGm5djlCw=="
+    "publicKey": "uJor7+V45tGrtx4DevHEfRvSKe45dVPMWZTyh5Pms48=",
+    "savedAt": "2026-10-30T05:29:45.267Z",
+    "signature": "Nk+LeXgHbVthjM2HjNitPuO8YmLvCNetEAejVY5dfkFbxuAaHsZ4AMk0JicKnF3rWYwzWIbAOh2+LIbVJdPwDA=="
   }
 }
