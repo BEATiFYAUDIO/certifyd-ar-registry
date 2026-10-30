@@ -11,27 +11,13 @@
         "nodeUrl": "https://public.certifyd.me",
         "profileUrl": "https://public.certifyd.me/u/certifyd"
       },
-      "sequence": 3,
-      "slots": {
-        "action": {
-          "label": "Join Certifyd",
-          "url": "https://certifyd.me/"
-        },
-        "reveal": {
-          "text": "Reveal who is co-founder of Certifyd",
-          "title": "Secret Superstar Producer",
-          "url": "https://vassal.certifyd.me/"
-        },
-        "support": {
-          "destination": "excitedproxy14@walletofsatoshi.com",
-          "label": "Bitcoin Powered"
-        }
-      },
-      "updatedAt": "2026-10-05T04:46:46.952Z",
+      "sequence": 4,
+      "slots": {},
+      "updatedAt": "2026-10-30T04:36:46.233Z",
       "version": 1
     },
-    "publicKey": "1zGWxpMCrt6B3gr0juBUR0e12cpOtsUTKn725H1IQrc=",
-    "savedAt": "2026-10-05T04:46:46.952Z",
-    "signature": "d7JcaCsuow5U6m6LNumpuyDmY2RZ0RxVN+e4sMYU4+ixSykqgpZwSCfgb5ufP1K9y+DzerGJQVU7p6FERWATCQ=="
+    "publicKey": "hyeZaCTGx7fAN8jQsw4unGaMvwtDEukrREhhubSIUbc=",
+    "savedAt": "2026-10-30T04:36:46.233Z",
+    "signature": "JuezuU/9Ak+/f47stWqZqrJeAaW2WncwsEvN7o0FtubXtY01rEgYemcAvrTqhJRhQEyCqSkGBsTPDau+l40cDA=="
   }
 }
