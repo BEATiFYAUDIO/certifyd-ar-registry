@@ -11,7 +11,7 @@
         "nodeUrl": "https://certifyd.beatifygroup.com",
         "profileUrl": "https://certifyd.beatifygroup.com/u/beatify-group"
       },
-      "sequence": 1,
+      "sequence": 2,
       "slots": {
         "action": {
           "label": "Get Tickets",
@@ -23,15 +23,16 @@
           "url": "https://undergroundrocks.ca/"
         },
         "support": {
-          "destination": "excitedproxy14@walletofsatoshi.com",
+          "amountSats": 6000,
+          "destination": "ardentsync492@walletofsatoshi.com",
           "label": "6000 Sats per ticket - wallet verified at the door."
         }
       },
-      "updatedAt": "2026-10-04T16:15:08.801Z",
+      "updatedAt": "2026-10-30T05:31:37.019Z",
       "version": 1
     },
-    "publicKey": "DL7OrQ3v+QkytXqhC91VLvoEqM06ZrRGTfREUgKU0LQ=",
-    "savedAt": "2026-10-04T16:15:08.801Z",
-    "signature": "Lmkp6n4Kka53ximCbENzWiX/EAL+6RJ8YDkN5qv8PshGGBaAt9nB1IIenhYRpthdtsQjg14XBkx+kmvzsOk6Dg=="
+    "publicKey": "uJor7+V45tGrtx4DevHEfRvSKe45dVPMWZTyh5Pms48=",
+    "savedAt": "2026-10-30T05:31:37.019Z",
+    "signature": "Cwjvym//PyfrzT7diY9H1J7V87N61iUgn//ShWXJaCtq0JGr0JVU373lw4yB2Zb9gk0CE8yaz0CfOmvtJUJKCg=="
   }
 }
