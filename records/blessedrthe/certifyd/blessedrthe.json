@@ -1,31 +1,31 @@
 {
   "record": {
     "id": "ar-record:https://certifyd.blessedrthe.fyi/u/blessedrthe|certifyd|blessedrthe",
-    "publicKey": "XjFzdEzurHAa4pIG5gSu6pG7UxspzdjfYyO01QIPyUI=",
     "payload": {
-      "version": 1,
-      "creator": {
-        "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe",
-        "nodeUrl": "https://certifyd.blessedrthe.fyi",
-        "handle": "blessedrthe"
-      },
       "context": {
-        "provider": "certifyd",
-        "account": "blessedrthe"
+        "account": "blessedrthe",
+        "provider": "certifyd"
       },
+      "creator": {
+        "handle": "blessedrthe",
+        "nodeUrl": "https://certifyd.blessedrthe.fyi",
+        "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
+      },
+      "sequence": 3,
       "slots": {
         "promotion": {
           "active": true,
-          "headline": "Meet the music behind the profile",
-          "offer": "Discover Chemical Love and the creator-owned catalog",
           "description": "Original sounds, playable previews, and a direct connection to Blessedrthe. Explore the catalog and support the work that moves you.",
-          "destination": "https://certifyd.blessedrthe.fyi/buy/cmq71a5j30003uwvweomhgri8"
+          "destination": "https://certifyd.blessedrthe.fyi/buy/cmq71a5j30003uwvweomhgri8",
+          "headline": "Meet the music behind the profile",
+          "offer": "Discover Chemical Love and the creator-owned catalog"
         }
       },
-      "sequence": 2,
-      "updatedAt": "2026-10-30T05:57:21.099Z"
+      "updatedAt": "2026-10-30T06:03:11.557Z",
+      "version": 1
     },
-    "signature": "8KIuNMbSPF1DJbxXJzMcYXP7t2qFmhw7ZI6OLGjm60z7O8Dmv6ZKvQB9HsaNSwBnDHnQfsP4ih29SD5o8DRtAQ==",
-    "savedAt": "2026-10-30T05:57:21.099Z"
+    "publicKey": "1oldABsXp8JyL6rPVPWiH9DLv5W9o0euW0JV61RCZPc=",
+    "savedAt": "2026-10-30T06:03:11.557Z",
+    "signature": "IdpaRQ/EX7B1V6eXk+TJFQ8ZAfEpWkavsJdJSwhTmQ6NuXbuBXyQVsVPoo0Eiv2FzFrXmqy3TfutXgscvOfGBQ=="
   }
 }
