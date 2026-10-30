@@ -11,27 +11,27 @@
         "nodeUrl": "https://certifyd.darrylhillock.com",
         "profileUrl": "https://certifyd.darrylhillock.com/u/darryl-hillock"
       },
-      "sequence": 2,
+      "sequence": 3,
       "slots": {
         "action": {
-          "label": "RUN CORE",
-          "url": "https://certifyd.me/"
+          "label": "The Price",
+          "url": "https://porsche.com/"
         },
         "reveal": {
-          "text": "Just go download core",
-          "title": "Certifyd Core is AWESOME",
-          "url": "https://certifyd.me/downloads/"
+          "text": "This is my professional site, isn't it cool?",
+          "title": "My Builds",
+          "url": "https://darrylhillock.com/"
         },
         "support": {
-          "destination": "excitedproxy14@walletofsatoshi.com",
-          "label": "ITS FREE"
+          "destination": "ardentsync492@walletofsatoshi.com",
+          "label": "Buy Me A Porsche"
         }
       },
-      "updatedAt": "2026-10-17T16:05:06.018Z",
+      "updatedAt": "2026-10-30T06:39:28.689Z",
       "version": 1
     },
-    "publicKey": "6XG88pxNpkmtdeRNjUoQWDwz6t1paUZzmCE79ZaEVgg=",
-    "savedAt": "2026-10-17T16:05:06.018Z",
-    "signature": "3BWp8b7ssxGiPfEgiZBcKVv7YmpqxnjPKYIWq8oHq2g0NnoJuhEfl06Wm/hf1GMN5y71KB9U4/eS1+CV4jJaCw=="
+    "publicKey": "k9gVE5DeuiC2Kz93+uDvvWrHtyj1vGGset1uIHR2v8k=",
+    "savedAt": "2026-10-30T06:39:28.689Z",
+    "signature": "U47m/pNhYxU6WFOZgsgM+jzUZiPlJKMCJjElUJXahq6xMHfEgtwIw5YbJ5L0c6RdNxg+lwJcksenDXFDlA1eAg=="
   }
 }
