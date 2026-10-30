@@ -1,37 +1,37 @@
 {
   "record": {
     "id": "ar-record:https://certifyd.blessedrthe.fyi/u/blessedrthe|tiktok|blessedbeatify",
-    "publicKey": "XjFzdEzurHAa4pIG5gSu6pG7UxspzdjfYyO01QIPyUI=",
     "payload": {
-      "version": 1,
-      "creator": {
-        "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe",
-        "nodeUrl": "https://certifyd.blessedrthe.fyi",
-        "handle": "blessedrthe"
-      },
       "context": {
-        "provider": "tiktok",
-        "account": "blessedbeatify"
+        "account": "blessedbeatify",
+        "provider": "tiktok"
       },
+      "creator": {
+        "handle": "blessedrthe",
+        "nodeUrl": "https://certifyd.blessedrthe.fyi",
+        "profileUrl": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
+      },
+      "sequence": 3,
       "slots": {
-        "reveal": {
-          "title": "You found the bonus track",
-          "text": "Short clip. Longer story. Step off the scroll and into Blessedrthe's catalog: original songs, playable previews, sheet music, and a direct way to support the creator.",
-          "url": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
-        },
-        "support": {
-          "label": "Send a little love in sats",
-          "destination": "rancidscorpio981@walletofsatoshi.com"
-        },
         "action": {
           "label": "Go deeper: listen to Terry",
           "url": "https://certifyd.blessedrthe.fyi/buy/cmptvzmx00001uwxwoyntdwwk"
+        },
+        "reveal": {
+          "text": "Short clip. Longer story. Step off the scroll and into Blessedrthe's catalog: original songs, playable previews, sheet music, and a direct way to support the creator.",
+          "title": "You found the bonus track",
+          "url": "https://certifyd.blessedrthe.fyi/u/blessedrthe"
+        },
+        "support": {
+          "destination": "rancidscorpio981@walletofsatoshi.com",
+          "label": "Send a little love in sats"
         }
       },
-      "sequence": 2,
-      "updatedAt": "2026-10-30T05:57:20.955Z"
+      "updatedAt": "2026-10-30T06:02:49.897Z",
+      "version": 1
     },
-    "signature": "tiCsE+N25TWKeLZbBCBoWYHhcXM3KYH3EWf9SwYhUIPvxiuA5HsSPe6Upn/MztOAoA/txEQTbEqIMHIcmbyMCg==",
-    "savedAt": "2026-10-30T05:57:20.955Z"
+    "publicKey": "1oldABsXp8JyL6rPVPWiH9DLv5W9o0euW0JV61RCZPc=",
+    "savedAt": "2026-10-30T06:02:49.897Z",
+    "signature": "ZDQR+M5ojfC9xmrCVvBLWKj/ObrUvc8R/uC2F4UcDmW6tbKsRP7Da4nR8hKCcY39/12VEIKb5TDNSXp4TfbyDw=="
   }
 }
