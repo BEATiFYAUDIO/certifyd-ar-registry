@@ -11,27 +11,27 @@
         "nodeUrl": "https://certifyd.darrylhillock.com",
         "profileUrl": "https://certifyd.darrylhillock.com/u/darryl-hillock"
       },
-      "sequence": 1,
+      "sequence": 2,
       "slots": {
         "action": {
-          "label": "Get tickets",
-          "url": "https://ontop.com/"
+          "label": "Look for it here",
+          "url": "https://porsche.com/"
         },
         "reveal": {
-          "text": "All my uncensored shit is on Certifyd!",
-          "title": "Check out my profile for uncensored",
-          "url": "https://ontop.com/"
+          "text": "My very super cool pro websitezzzz",
+          "title": "My Builds",
+          "url": "https://darrylhillock.com/"
         },
         "support": {
-          "destination": "excitedproxy14@walletofsatoshi.com",
-          "label": "Send Sats"
+          "destination": "ardentsync492@walletofsatoshi.com",
+          "label": "Buy Me A Porsche"
         }
       },
-      "updatedAt": "2026-10-05T04:03:54.359Z",
+      "updatedAt": "2026-10-30T06:41:06.920Z",
       "version": 1
     },
-    "publicKey": "6XG88pxNpkmtdeRNjUoQWDwz6t1paUZzmCE79ZaEVgg=",
-    "savedAt": "2026-10-05T04:03:54.359Z",
-    "signature": "TfLU/SiEBnoLT4mPGYPO5sSLpI7FPgTXVDf0HgvKk8UREqqNvtXyHhAUEgyO/BNZXexxGl0ks1wJDQ7LoHuPBQ=="
+    "publicKey": "k9gVE5DeuiC2Kz93+uDvvWrHtyj1vGGset1uIHR2v8k=",
+    "savedAt": "2026-10-30T06:41:06.920Z",
+    "signature": "Vcd3EpxC55XHIBkhfOkf87XXUVcFjzW7lMgi1dQXtY/l7bk1YD23P9DrUDrmfo1XryWkWghkQzEvLdtIe1j/Aw=="
   }
 }
